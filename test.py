@@ -1,2 +1,2 @@
 #Hello world
-Print("Hello World")
+print ("Hello World")
